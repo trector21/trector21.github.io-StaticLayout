@@ -34,19 +34,19 @@ body {
 }
 
 #hall img{
-    width: 500px;
+    width: 350px;
     height: 250px;
     border-radius: 20%;
     margin-left: 5px;
 }
 #harryWBird img{
-    width: 500px;
+    width: 350px;
     height: 250px;
     border-radius: 20%;
     margin-left: 5px;
 }
 #Hogwarts img{
-    width: 500px;
+    width: 350px;
     height: 250px;
     border-radius: 20%;
     margin-left: 5px;
@@ -55,7 +55,7 @@ body {
 /*Picture P tag formatting */
 #hall p1 {
     text-decoration: underline;
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: x-large;
     padding-right: 500px;
 }
