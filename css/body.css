@@ -27,8 +27,8 @@ body {
 /*Picture Formating*/
  .bottomPictures {
     display: flex;
-    height: 90vh;
-    padding-top: 530px;
+    height: 80vh;
+    padding-top: 500px;
     padding-left: 50px;
     padding-right: 50px;
 }
