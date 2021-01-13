@@ -1,0 +1,40 @@
+#navTop :hover {
+    background-color: rgb(54, 54, 100);
+}
+
+#logoDiv { 
+    left: 47%;
+    transform: translateX(-50);
+
+}
+#login {
+    background-color: rgb(150, 91, 218);
+    color: white;
+    border-radius: 20%;
+    padding: 10px;
+    float: right;
+    margin-top: -70px;
+    margin-right: 50px;
+}
+
+#navBottom :hover{
+    background-color: rgb(20, 20, 48);
+}
+
+nav a {
+    color: white;
+}
+nav ul {
+    margin-top: 20px;
+    margin-left: 400px;
+}
+.newsAndFeatures a {
+  color: white;
+}
+.newsAndFeatures a {
+  color: white;
+}
+.dropdown-menu :hover{
+  color: white;
+}
+

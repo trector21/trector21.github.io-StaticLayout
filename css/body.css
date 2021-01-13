@@ -1,0 +1,85 @@
+body {
+    background: url(../assets/HarryPotter.png);
+    background-repeat: no-repeat;
+    background-position: absolute;
+    background-size: cover;
+}
+
+
+#fanclub {
+    margin: 0px;
+    height: 20vh;
+    font-size: x-large;
+    color: white;
+} 
+.discoverHouse {
+    color: white;
+}
+
+#visit {
+    background-color: rgb(150, 91, 218);
+    color: white;
+    border-radius: 5%/50%;
+    padding: 10px 300px;   
+    
+}
+
+/*Picture Formating*/
+ .bottomPictures {
+    display: flex;
+    height: 90vh;
+    padding-top: 530px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#hall img{
+    width: 500px;
+    height: 250px;
+    border-radius: 20%;
+    margin-left: 5px;
+}
+#harryWBird img{
+    width: 500px;
+    height: 250px;
+    border-radius: 20%;
+    margin-left: 5px;
+}
+#Hogwarts img{
+    width: 500px;
+    height: 250px;
+    border-radius: 20%;
+    margin-left: 5px;
+} 
+
+/*Picture P tag formatting */
+#hall p1 {
+    text-decoration: underline;
+    color: white;
+    font-size: x-large;
+    padding-right: 500px;
+}
+#hall p {
+    color: white;
+    font-size: x-large;
+}
+#harryWBird p1 {
+    text-decoration: underline;
+    color: white;
+    font-size: x-large;
+    
+    padding-right: 500px
+}
+#harryWBird p {
+    color: white;
+    font-size: x-large;
+}
+#Hogwarts p1 {
+    text-decoration: underline;
+    color: white;
+    font-size: x-large;
+}
+#Hogwarts p {
+    color: white;
+    font-size: x-large;
+}
